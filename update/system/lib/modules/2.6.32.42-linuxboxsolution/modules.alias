@@ -1,0 +1,24 @@
+# Aliases extracted from modules themselves.
+alias char-major-10-229 fuse
+alias stdrng ansi_cprng
+alias sdio:c*v02D0d4319* dhd
+alias sdio:c*v02D0d4329* dhd
+alias sdio:c*v02D0d0493* dhd
+alias sdio:c*v02D0d0492* dhd
+alias sdio:c*v02D0d0000* dhd
+alias char-major-10-200 tun
+alias usb:v1BADp*d*dc*dsc*dp*icFFisc5Dip81* xpad
+alias usb:v1BADp*d*dc*dsc*dp*icFFisc5Dip01* xpad
+alias usb:v146Bp*d*dc*dsc*dp*icFFisc5Dip81* xpad
+alias usb:v146Bp*d*dc*dsc*dp*icFFisc5Dip01* xpad
+alias usb:v1430p*d*dc*dsc*dp*icFFisc5Dip81* xpad
+alias usb:v1430p*d*dc*dsc*dp*icFFisc5Dip01* xpad
+alias usb:v0E6Fp*d*dc*dsc*dp*icFFisc5Dip81* xpad
+alias usb:v0E6Fp*d*dc*dsc*dp*icFFisc5Dip01* xpad
+alias usb:v0738p*d*dc*dsc*dp*icFFisc5Dip81* xpad
+alias usb:v0738p*d*dc*dsc*dp*icFFisc5Dip01* xpad
+alias usb:v046Dp*d*dc*dsc*dp*icFFisc5Dip81* xpad
+alias usb:v046Dp*d*dc*dsc*dp*icFFisc5Dip01* xpad
+alias usb:v045Ep*d*dc*dsc*dp*icFFisc5Dip81* xpad
+alias usb:v045Ep*d*dc*dsc*dp*icFFisc5Dip01* xpad
+alias usb:v*p*d*dc*dsc*dp*ic58isc42ip00* xpad
